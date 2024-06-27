@@ -1,0 +1,16 @@
+# Ignore all files and directories in the user's home directory
+/*
+!.gitignore
+
+# Allow the project directory
+!/Project Tesla/
+
+# Ignore specific directories and files
+*.log
+*.tmp
+*.bak
+.DS_Store
+*.swp
+__pycache__/
+
+# Add other patterns as needed
